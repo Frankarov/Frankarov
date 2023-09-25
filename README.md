@@ -1,16 +1,22 @@
-### Welcome to my Github page !! 👋
+### Welcome to Frank's Github!! 👋
+
+**Hello and welcome to my personal GitHub.**
+
+# About Me
+I am a junior programmer who is still learning in the world of game development and programming.
+This is where I upload the source code of game projects and applications that I've worked on for open-source purposes or simply as a safe storage space.
+
+If you would like to explore my portfolio further :
+[Portfolio](https://frankarov.webflow.io),
+[ItchIo](https://frankarov.itch.io/)
 
 
-**Frankarov/Frankarov**
+# Contact Info
+Gmail : francescoagusthu@gmail.com
 
-Here are some ideas to get you started:
+[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/francesco-agus-thu/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
 
